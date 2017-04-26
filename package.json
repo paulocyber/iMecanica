@@ -1,0 +1,19 @@
+{
+  "name": "imecanica",
+  "version": "1.0.0",
+  "description": "Aplicação para serviços de oficinas de motos",
+  "main": "index.js",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "consign": "^0.1.4",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1"
+  },
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "author": "Paulo Henrique G Alves"
+}
